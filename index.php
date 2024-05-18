@@ -61,7 +61,6 @@
                     <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="sobre_nosotros.php">Nosotros</a></li>
                     <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="cafeteria.php">Cafetería</a></li>
                     <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="restaurante.php">Restaurante</a></li>
-                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="restaurante.php">ChatBots</a></li>
                 </ul>
             </div>
         </div>
@@ -96,26 +95,35 @@
             </div>
         </div>
     </section>
-
-    <section class="page-section redes-sociales">
+    <!-- Sección de redes sociales -->
+    <section class="bg-light py-5">
         <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-primary">Síguenos en redes sociales</h2>
+                    <p class="lead mb-5">Mantente actualizado con nuestras últimas noticias y promociones a través de nuestras redes sociales.</p>
+                </div>
+            </div>
             <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <h2 class="mt-0">Síguenos en redes sociales</h2>
-                    <hr class="divider" />
-                    <div class="redes-sociales-iconos">
-                        <a href="https://wa.link/celyum" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-whatsapp fa-3x"></i>
-                        </a>
-                        <a href="https://www.facebook.com/profile.php?id=61558107166473" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-facebook-f fa-3x"></i>
-                        </a>
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="bg-white rounded shadow py-5 px-4 text-center">
+                        <i class="fab fa-whatsapp fa-3x mb-3 text-success"></i>
+                        <h5 class="mb-3">WhatsApp</h5>
+                        <p class="small text-muted mb-0">Si quieres realizar un pedido mediante la interacion de un chatbot de click en el icono de WhatsApp.</p>
+                        <a href="https://wa.link/celyum" target="_blank" class="btn btn-success btn-sm mt-3">Chatear</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="bg-white rounded shadow py-5 px-4 text-center">
+                        <i class="fab fa-facebook fa-3x mb-3 text-primary"></i>
+                        <h5 class="mb-3">Facebook</h5>
+                        <p class="small text-muted mb-0">Síguenos en Facebook para estar al tanto de nuestras últimas noticias y actualizaciones.</p>
+                        <a href="https://www.facebook.com/profile.php?id=61558107166473" target="_blank" class="btn btn-primary btn-sm mt-3">Seguir</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 
 
 
