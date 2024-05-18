@@ -1,5 +1,3 @@
-# Claro, aquí tienes un ejemplo de un README.md amigable con emojis para el repositorio de tu restaurante Luna Verde:
-
 # Luna Verde 🌙🥗
 
 ¡Bienvenido al repositorio del sitio web del restaurante Luna Verde! Aquí encontrarás todo el código fuente y los recursos necesarios para nuestro restaurante. 🥕🥬
